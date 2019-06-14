@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>Screen_Shot_20190613_at_110236_AM</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Volunteer Tracker</label>
+    <navType>Standard</navType>
+    <tabs>standard-Account</tabs>
+    <tabs>Volunteer_Activity__c</tabs>
+    <tabs>Volunteer_Job__c</tabs>
+    <tabs>Volunteer_Shift_Worker__c</tabs>
+    <tabs>Volunteer_Shift__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Volunteer_Tracker_UtilityBar</utilityBar>
+</CustomApplication>
